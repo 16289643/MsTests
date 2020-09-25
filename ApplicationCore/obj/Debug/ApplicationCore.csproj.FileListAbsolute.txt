@@ -1,0 +1,6 @@
+C:\Users\diale\source\repos\MSTests\ApplicationCore\bin\Debug\ApplicationCore.dll
+C:\Users\diale\source\repos\MSTests\ApplicationCore\bin\Debug\ApplicationCore.pdb
+C:\Users\diale\source\repos\MSTests\ApplicationCore\obj\Debug\ApplicationCore.csprojAssemblyReference.cache
+C:\Users\diale\source\repos\MSTests\ApplicationCore\obj\Debug\ApplicationCore.csproj.CoreCompileInputs.cache
+C:\Users\diale\source\repos\MSTests\ApplicationCore\obj\Debug\ApplicationCore.dll
+C:\Users\diale\source\repos\MSTests\ApplicationCore\obj\Debug\ApplicationCore.pdb
